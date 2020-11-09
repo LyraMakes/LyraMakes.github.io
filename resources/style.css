@@ -1,0 +1,13 @@
+* {
+    background: #127FA3;
+    font-family: 'Open Sans', 'Roboto', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}

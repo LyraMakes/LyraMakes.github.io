@@ -1,0 +1,42 @@
+* {
+  background: #DEDEDE;
+  font-family: 'Open Sans', 'Roboto', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#title {
+  font-size: 72px;
+  background: rgb(85,205,252);
+  background: linear-gradient(90deg, rgba(85,205,252,1) 0%, rgba(247,168,184,1) 20%, rgba(255,255,255,1) 50%, rgba(247,168,184,1) 80%, rgba(85,205,252,1) 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+
+#titleBox {
+  background: #127FA3;
+}
+
+nav {
+  font-size: 24px;
+  color: #000b6b;
+  font-weight: bold;
+  background: aqua;
+  text-align: center;
+}
+
+.navLink{
+  font-size: 24px;
+  color: #000b6b;
+  font-weight: bold;
+  background: aqua;
+  text-decoration: none;
+}
+
+.navLink:hover {
+  text-decoration: underline;
+}
